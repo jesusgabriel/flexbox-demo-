@@ -29,12 +29,12 @@ img{
   justify-content: center;
   background-color: white !important;
 }
-#child2{
+#child2 {
   display: flex;
   flex:1;
   flex-direction: column !important;
-
 }
+
 #child3{
   flex:4
   display: flex;
@@ -66,4 +66,9 @@ img{
   display: flex;
   justify-content: center;
   background-color: lightblue;
+}
+input{
+  margin: 1rem;
+  padding: 5px;
+  font-size: 14px;
 }
