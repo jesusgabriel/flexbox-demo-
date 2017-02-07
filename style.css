@@ -63,6 +63,7 @@ img{
 .container button{
   padding: 20px;
   flex-basis: 100%;
+  border: none;  
   display: flex;
   justify-content: center;
 
